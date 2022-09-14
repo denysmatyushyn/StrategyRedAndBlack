@@ -17,5 +17,4 @@ To run this:
 - `pip3 install -r requirements.txt`
 
 To use it:  
-- Read help `StrategyRedAndBlack.py -h`
 - Example of running `python StrategyRedAndBlack.py`
